@@ -29,7 +29,7 @@ public class Itemhead
     public string Name { get; set; }
 }
 
-public partial class ExcelMapping5_final21 : System.Web.UI.Page
+public partial class ExcelMapping5_final21_demo : System.Web.UI.Page
 {
     cls_Common_cls cls_Common_cls = new cls_Common_cls();
     ConnectDB objdb = new ConnectDB();
